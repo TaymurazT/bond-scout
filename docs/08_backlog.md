@@ -2,12 +2,12 @@
 
 ## Phase 1 - Foundation
 
-* [ ] Создать GitHub repository
-* [ ] Создать Python virtualenv
-* [ ] Установить FastAPI
-* [ ] Установить SQLAlchemy
-* [ ] Установить Alembic
-* [ ] Поднять PostgreSQL
+* [*] Создать GitHub repository
+* [*] Создать Python virtualenv
+* [*] Установить FastAPI
+* [*] Установить SQLAlchemy
+* [*] Установить Alembic
+* [*] Поднять PostgreSQL
 * [ ] Создать первую миграцию
 
 ---
